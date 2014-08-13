@@ -1,0 +1,14 @@
+ body{
+  background-color:#aaa;
+  font-family:arial narrow,san-serif;
+  font-size: 15px;
+  color: #003;
+  }
+  h1.heading{
+  font-size:150%;
+  text-align:center;
+  margin:0 0 0 0;
+  }
+  p{
+  text-align:justify;
+   }
